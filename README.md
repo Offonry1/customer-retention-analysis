@@ -27,10 +27,10 @@ Fixed TotalCharges (stored as text instead of number), filled 11 blank entries f
 Ran univariate and bivariate analysis across all key variables. Cross tabulations compared contract type, internet service, payment method and tenure band against churn status.
 
 **Phase 4 — Data Visualization**
-Built five charts showing churn rate by contract type, internet service, tenure band and monthly charges — all with written interpretations.
+Built five charts showing churn rate by contract type, internet service, tenure band and monthly charges all with written interpretations.
 
 **Phase 5 — Statistical Testing & Recommendations**
-Ran two independent t-tests (monthly charges and tenure) and one chi-square test (contract type). All three returned p-values essentially equal to zero — confirming the patterns are real and not random.
+Ran two independent t-tests (monthly charges and tenure) and one chi-square test (contract type). All three returned p-values essentially equal to zero confirming the patterns are real and not random.
 
 ## Key Findings
 - Overall churn rate is **26.54%** — more than 1 in 4 customers left
